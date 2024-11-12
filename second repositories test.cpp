@@ -12,7 +12,9 @@ int main () {
 
     cout << endl << "Testing a fourth line." << endl;
 
-    cout << endl << "Testing a fifth line." << endl << endl;
+    cout << endl << "Testing a fifth line." << endl;
+
+    cout << endl << "Testing a sixth line." << endl << endl;
 
 
 
